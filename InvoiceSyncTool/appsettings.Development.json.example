@@ -1,0 +1,12 @@
+{
+  "ConnectionStrings": {
+    "AppDatabase": "Server=localhost;Database=YourDb;User Id=youruser;Password=yourpass;"
+  },
+  "AccountingCredentials": {
+    "SenderId": "your-sender-id",
+    "SenderPassword": "your-sender-password",
+    "CompanyId": "your-company-id",
+    "UserId": "your-user-id",
+    "UserPassword": "your-user-password"
+  }
+}
